@@ -5,9 +5,9 @@
   <subtitle>爱生活 | 爱code | 爱飞飞</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-01-20T08:25:43.275Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://hubgis.club/"/>
+  <updated>2020-01-17T01:20:05.719Z</updated>
+  <id>http://hubgis.club/</id>
   
   <author>
     <name>Hu bobo</name>
@@ -17,34 +17,9 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>0119</title>
-    <link href="http://yoursite.com/2020/01/20/paper/"/>
-    <id>http://yoursite.com/2020/01/20/paper/</id>
-    <published>2020-01-20T08:20:22.000Z</published>
-    <updated>2020-01-20T08:25:43.275Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;2020-01-19
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="家" scheme="http://yoursite.com/tags/%E5%AE%B6/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/01/17/hello-world/"/>
-    <id>http://yoursite.com/2020/01/17/hello-world/</id>
+    <link href="http://hubgis.club/2020/01/17/hello-world/"/>
+    <id>http://hubgis.club/2020/01/17/hello-world/</id>
     <published>2020-01-17T01:20:05.719Z</published>
     <updated>2020-01-17T01:20:05.719Z</updated>
     
